@@ -66,5 +66,5 @@ flavor = "11"
 </p>
 
 <p align="center">
-  <img src="assets/leon-auriculares.gif" />
+  <img src="assets/leon-auriculares.gif" width="100" />
 </p>
