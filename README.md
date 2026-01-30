@@ -1,92 +1,64 @@
 ![header](assets/header.gif)
 
 <div align="center">
-  <h1>Hi there, I'm tormentionrex-hub</h1>
-  <h3>Software Developer & Tech Creator from Costa Rica</h3>
-  <p><i>Crafting digital experiences with code, creativity, and automation.</i></p>
+  <h1>tormentionrex-hub</h1>
+  <h3>Desarrollador de software y creador de tecnología de Costa Rica 🇨🇷</h3>
+  <p><i>Creando experiencias digitales con código, creatividad y automatización.</i></p>
 
   <a href="https://github.com/tormentionrex-hub">
     <img src="https://img.shields.io/github/followers/tormentionrex-hub?style=social" alt="GitHub Followers">
   </a>
 </div>
 
----
+<br />
 
-## About Me
+```toml
+[profile]
+name = "tormentionrex-hub"
+role = "Software Developer & Tech Creator"
+location = "Costa Rica"
+intro = "Futuristic coding enthusiast"
 
-I am a passionate **Software Developer** focused on **web development, creative coding, and automation**. I love building interactive systems that merge logic with futuristic aesthetics. My goal is to create seamless user experiences with clean code and modern design.
+[skills]
+focus = ["Web Development", "Frontend Logic", "Automation"]
+style = ["Dark Theme", "Neon Accents", "Clean Structure"]
+mood = "Creative & Professional"
 
-- I'm currently working on **interactive web applications**.
-- I'm currently learning **advanced AI integration and 3D web graphics**.
-- I enjoy **dark-themed UI/UX design** and **neon aesthetics**.
-- My personal motto: *"Code the future, automate the present."*
+[motto]
+quote = "Code the future, automate the present"
+```
 
----
+<br />
 
-## Tech Stack & Tools
+## Habilidades
 
 <div align="center">
 
-### Client-Side
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" alt="Client-Side Skills" />
+<!-- Client-Side -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### Server-Side
-<img src="https://skillicons.dev/icons?i=mysql,ruby,python,nodejs&theme=dark" alt="Server-Side Skills" />
+<br/>
 
-### Technical
-<img src="https://img.shields.io/badge/POO-007ACC?style=for-the-badge&logoColor=white" alt="POO" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/SQL-EA631C?style=for-the-badge&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/GITHUB-56AA03?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-<!-- Note: For 'POO' and 'SQL' specific logos, standard badges are used. Adjust colors as preferred. -->
+<!-- Server-Side & Tools -->
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
----
+<br />
 
-## GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tormentionrex-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tormentionrex-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tormentionrex-hub&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
-
-</div>
-
----
-
-## Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Project Alpha** | A futuristic dashboard for data visualization. | ![JS](https://img.shields.io/badge/-JavaScript-yellow) ![CSS](https://img.shields.io/badge/-CSS-blue) |
-| **Neon UI Kit** | A CSS library for cyberpunk-styled components. | ![HTML](https://img.shields.io/badge/-HTML-orange) ![SCSS](https://img.shields.io/badge/-Sass-pink) |
-| **AutoBot** | An automation script for daily tasks. | ![Python](https://img.shields.io/badge/-Python-blue) |
-
-*(Currently updating my portfolio... check back soon!)*
-
----
-
-## Contact & Socials
+## Estadísticas
 
 <div align="center">
-
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/tormentionrex-hub">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/tormentionrex-hub">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=tormentionrex-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tormentionrex-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
 <br />
