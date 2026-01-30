@@ -1,7 +1,7 @@
 <img src="assets/leon-chokes.gif" width="100%" alt="Header Animation" />
 
 <div align="center">
-  <h3>Hola, soy Christopher Gonzalez, un pequeño desarrollador de software y creador de tecnología de Costa Rica 🇨🇷</h3>
+  <h3>Hola, soy Christopher Gonzalez, un pequeño desarrollador de software y creador de tecnología.</h3>
   <p><i>intento crearexperiencias digitales con código, creatividad y automatización.</i></p>
 
   <a href="https://github.com/tormentionrex-hub">
@@ -55,15 +55,16 @@ flavor = "11"
 
 <br />
 
-## Estadísticas
+## ⚡ GitHub Estadísticas
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tormentionrex-hub&theme=radical&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tormentionrex-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tormentionrex-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
-</div>
+</p>
