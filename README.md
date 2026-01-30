@@ -1,9 +1,8 @@
-<img src="assets/header.gif" width="100%" alt="Header Animation" />
+<img src="assets/leon-chokes.gif" width="100%" alt="Header Animation" />
 
 <div align="center">
-  <h1>tormentionrex-hub</h1>
-  <h3>Desarrollador de software y creador de tecnología de Costa Rica 🇨🇷</h3>
-  <p><i>Creando experiencias digitales con código, creatividad y automatización.</i></p>
+  <h3>Hola, soy Christopher Gonzalez, un pequeño desarrollador de software y creador de tecnología de Costa Rica 🇨🇷</h3>
+  <p><i>intento crearexperiencias digitales con código, creatividad y automatización.</i></p>
 
   <a href="https://github.com/tormentionrex-hub">
     <img src="https://img.shields.io/github/followers/tormentionrex-hub?style=social" alt="GitHub Followers">
