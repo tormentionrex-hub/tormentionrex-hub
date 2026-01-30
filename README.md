@@ -1,4 +1,4 @@
-![header](assets/header.gif)
+<img src="assets/header.gif" width="100%" alt="Header Animation" />
 
 <div align="center">
   <h1>tormentionrex-hub</h1>
@@ -19,7 +19,7 @@ name = "Christopher Gonzalez"
 age = 19
 locale = "es-CR"
 drink = "Coffee ☕"
-icon = "🚀"
+icon = "🎶"
 
 [langs]
 fav = "JavaScript"
