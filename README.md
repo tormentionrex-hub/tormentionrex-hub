@@ -13,19 +13,21 @@
 <br />
 
 ```toml
-[profile]
-name = "tormentionrex-hub"
-role = "Software Developer & Tech Creator"
-location = "Costa Rica"
-intro = "Futuristic coding enthusiast"
+name = "Christopher Gonzalez"
 
-[skills]
-focus = ["Web Development", "Frontend Logic", "Automation"]
-style = ["Dark Theme", "Neon Accents", "Clean Structure"]
-mood = "Creative & Professional"
+[self]
+age = 19
+locale = "es-CR"
+drink = "Coffee ☕"
+icon = "🚀"
 
-[motto]
-quote = "Code the future, automate the present"
+[langs]
+fav = "JavaScript"
+most_used = "HTML/CSS"
+
+[os]
+kernel = "Windows"
+flavor = "11"
 ```
 
 <br />
