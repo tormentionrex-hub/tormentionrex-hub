@@ -66,5 +66,5 @@ flavor = "11"
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tormentionrex-hub&theme=radical&hide_border=true" />
+  <img src="assets/leon-auriculares.gif" />
 </p>
