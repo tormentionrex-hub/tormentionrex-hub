@@ -45,7 +45,9 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,python,git,github,vscode,py,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,python,git,github,vscode,figma" />
+  <br />
+  <img src="https://img.shields.io/badge/Powered_by-Antigravity-66FCF1?style=for-the-badge&logo=google-gemini&logoColor=66FCF1&labelColor=0d1117" />
 </div>
 
 <br />
