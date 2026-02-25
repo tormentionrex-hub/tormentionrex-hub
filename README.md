@@ -21,9 +21,9 @@
       <td align="left" width="300px">
         <b>👤 PERSONAL</b><br>
         • <b>Edad:</b> 19<br>
-        • <b>Ubicación:</b> es-CR<br>
+        • <b>Ubicación:</b> Costa Rica 🇨🇷<br>
         • <b>Bebida:</b> Coffee ☕<br>
-        • <b>Vibe:</b> 🎶
+        • <b>Idioma:</b> Español 🇪🇸
       </td>
       <td align="left" width="300px">
         <b>💻 DESARROLLO</b><br>
@@ -41,23 +41,6 @@
   </table>
 </div>
 
-```toml
-[self]
-age = 19
-locale = "es-CR"
-drink = "Coffee ☕"
-icon = "🎶"
-
-[langs]
-fav = "JavaScript"
-most_used = "HTML/CSS"
-
-[os]
-kernel = "Windows"
-flavor = "11"
-```
-
----
 
 ### 🛠️ Tecnologías y Herramientas
 
