@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/LeonGit1.jpeg" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" alt="Leon Banner" />
+  <img src="assets/tumblr_613ea3f311cf5ac9585ab4461c4964f0_34e3260c_500.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" alt="Leon Banner" />
 </div>
 
 <div align="center">
