@@ -1,4 +1,4 @@
-<img src="assets/leon-chokes.gif" width="100%" alt="Header Animation" />
+<img src="assets/LeonGit1.jpeg" width="100%" alt="Header Animation" />
 
 <div align="center">
   <h3>Hola, soy Christopher Gonzalez, un pequeño desarrollador de software y creador de tecnología.</h3>
