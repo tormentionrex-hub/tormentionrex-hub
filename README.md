@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,python,git,github,vscode,figma" />
-  <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160d139a205d6.svg" width="48" height="48" style="vertical-align: top; margin-left: 5px; background: #1a1a1b; padding: 8px; border-radius: 10px;" alt="Antigravity" />
+  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" width="48" height="48" style="vertical-align: top; margin-left: 5px; background: #1a1a1b; padding: 6px; border-radius: 10px;" alt="Antigravity" />
 </div>
 
 <br />
