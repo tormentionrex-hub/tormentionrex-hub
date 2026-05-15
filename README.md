@@ -8,18 +8,9 @@
 
 <p>Bienvenido a mi perfil profesional.</p>
 
-<img
-  src="https://readme-typing-svg.demolab.com/?font=Lora&size=27&duration=4800&pause=3200&color=0B3467&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=108&background=F6F8FA&borderColor=D0D7DE&borderWidth=1&borderRadius=14&lines=Christopher+Gonz%C3%A1lez+Bustamante%3BDesarrollo+web+full+stack%2C+automatizaci%C3%B3n+e+inteligencia+artificial+aplicada"
-  alt="Christopher González Bustamante — Desarrollo web full stack, automatización e inteligencia artificial aplicada"
-/>
-
-<br />
-<br />
-
 <p>
-  Diseño e implemento soluciones web de extremo a extremo con arquitectura clara y criterios de calidad exigentes.
-  <br /><br />
-  Integro automatización de procesos e inteligencia artificial cuando aportan valor medible al producto y a quien lo utiliza.
+  Me llamo <strong>Christopher Gerardo Gonzalez Bustamante</strong>. Soy programador full stack que vibecodea y resuelve problemas a base de
+  automatizaciones con inteligencia artificial. Todo lo que imagines se puede crear con desempeño y esfuerzo.
 </p>
 
 <p align="center">
