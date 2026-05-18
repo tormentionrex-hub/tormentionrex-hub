@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="assets/banner.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" alt="Banner" />
+  <img src="assets/banner2.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" alt="Banner" />
 </div>
 
 <br />
 
 <div align="center">
-
-<p>Bienvenido a mi perfil profesional.</p>
 
 <p>
   Me llamo <strong>Christopher Gerardo Gonzalez Bustamante</strong>. Soy programador full stack que vibecodea y resuelve problemas a base de
@@ -14,8 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Activo-success?style=for-the-badge&logo=status&color=21262d&labelColor=66FCF1&logoColor=21262d" />
-  <img src="https://komarev.com/ghpvc/?username=tormentionrex-hub&label=VISITANTES&color=66FCF1&style=for-the-badge" alt="Visitors" />
+  <img src="https://img.shields.io/badge/Status-Activo-success?style=for-the-badge&logo=status&color=21262d&labelColor=1F6FEB&logoColor=21262d" />
+  <img src="https://komarev.com/ghpvc/?username=tormentionrex-hub&label=VISITANTES&color=1F6FEB&style=for-the-badge" alt="Visitors" />
+  <a href="https://www.linkedin.com/in/christopher-gonzalez-bustamante-802142371/">
+    <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21262d" alt="LinkedIn" />
+  </a>
 </p>
 
 <br />
