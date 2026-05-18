@@ -14,8 +14,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Activo-success?style=for-the-badge&logo=status&color=21262d&labelColor=1F6FEB&logoColor=21262d" />
   <img src="https://komarev.com/ghpvc/?username=tormentionrex-hub&label=VISITANTES&color=1F6FEB&style=for-the-badge" alt="Visitors" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/christopher-gonzalez-bustamante-802142371/">
     <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21262d" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/502294936629149716">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=21262d" alt="Discord" />
   </a>
 </p>
 
@@ -155,7 +161,7 @@
 ---
 
 <div align="center">
-  <img src="assets/leon-auriculares.gif" width="120px" style="opacity: 0.8;" />
+  <img src="assets/auricolare-car.gif" width="120px" style="opacity: 0.8;" />
   <p><i>"Intento crear experiencias digitales con código, creatividad y automatización."</i></p>
 
   <a href="https://github.com/tormentionrex-hub">
