@@ -17,12 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christopher-gonzalez-bustamante-802142371/">
-    <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/502294936629149716">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <a href="https://www.linkedin.com/in/christopher-gonzalez-bustamante-802142371/"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/502294936629149716"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <br />
